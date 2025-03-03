@@ -4,7 +4,7 @@
 
 ## About me
 
-Hello! I am Yi-Ting Tu, currently pursuing a Master’s degree in Financial Engineering at National Yang Ming Chiao Tung University.
+Hello! I am Yi-Ting Tu, currently pursuing a Master’s degree in Finance at National Yang Ming Chiao Tung University.
 
 
 💻 GitHub: [tu702019](https://github.com/tu702019)  
