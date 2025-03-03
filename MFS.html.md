@@ -5,7 +5,7 @@
 
 I was born in Tainan, a historic city in southern Taiwan. 
 I studied Accounting at National Taiwan University and began my career as an auditor at PwC Taiwan. 
-Later, I pursued a master's degree in Finance at National Yang Ming Chiao Tung University.
+Now, I am pursuing a master's degree in Finance at National Yang Ming Chiao Tung University.
 
 <img width="1440" alt="截圖 2025-03-03 下午2 13 34" src="https://github.com/user-attachments/assets/a6ad7356-61c9-46c7-b626-44f1c249fb62" />
 
